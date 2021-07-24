@@ -85,7 +85,7 @@ function draw() {
 
   gameOver.position.x = restart.position.x = camera.x;
 
-  background(lightblue);
+  background(226, 164, 149);
   //displaying score
   text("Score: "+ score, 500,50);
   
